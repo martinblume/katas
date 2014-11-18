@@ -1,0 +1,4 @@
+katas
+=====
+
+repository for katas
